@@ -14,7 +14,7 @@
 
     <script>
       // ===== Replace with your API key =====
-      const API_KEY = "AIzaSyB-0j22fb8ybpbI6RLTXW1pCL2f5bRHpaY"
+      const API_KEY = "your_api"
 
       // ===== Load chat from localStorage =====
       let messages = JSON.parse(localStorage.getItem("chat")) || [];
